@@ -1,0 +1,38 @@
+#output
+
+Enter your pin: 
+1234
+------------------
+1.Deposit amount
+ 2.Withdraw amount 
+ 3.Check Balance
+ 4.Exit
+1
+Enter the amount you want to deposit:
+10000
+10000 amount deposited successfully
+------------------
+1.Deposit amount
+ 2.Withdraw amount 
+ 3.Check Balance
+ 4.Exit
+2
+Enter the amount you want to withdraw:
+4000
+4000 withdrawn successfully
+------------------
+1.Deposit amount
+ 2.Withdraw amount 
+ 3.Check Balance
+ 4.Exit
+3
+Your current balance is: 6000 rupees
+------------------
+1.Deposit amount
+ 2.Withdraw amount 
+ 3.Check Balance
+ 4.Exit
+4
+Successfully exited
+
+=== Code Execution Successful ===
